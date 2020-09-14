@@ -1,0 +1,5 @@
+sudo apt-get -y install python3-pip python-dev libmysqlclient-dev 
+
+sudo pip3 install memsql 
+
+sudo pip3 install boto3
